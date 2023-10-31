@@ -1,0 +1,16 @@
+//btn for restart game
+//chech bettween input and rendoim number
+// change backgrund if u guess right
+//add highest score u git it
+select element from html
+
+backgrund body
+btn-reset 
+number
+
+input class "number"
+function for class btn-check
+
+massage
+score
+highScore
